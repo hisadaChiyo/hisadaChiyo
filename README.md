@@ -8,7 +8,7 @@
 - 2026.04 - 現在：トライデントコンピュータ専門学校Webデザイン学科
 <br />
 
-### 直近使用しているもの
+### 使用したことがあるもの
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ai,vscode,ps,figma&theme=light)](https://skillicons.dev)
 
 ## 📫 SNS
