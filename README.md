@@ -12,4 +12,3 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma&theme=light)](https://skillicons.dev)
 
 ## 📫 SNS
-![Instagram](https://instagram.com/chiyo_0502)
