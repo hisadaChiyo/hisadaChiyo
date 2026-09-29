@@ -9,6 +9,6 @@
 <br />
 
 ### 直近使用しているもの
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ai,vscode,ps,figma&theme=light)](https://skillicons.dev)
 
 ## 📫 SNS
