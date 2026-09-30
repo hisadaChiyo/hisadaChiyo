@@ -12,6 +12,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ai,vscode,ps,figma&theme=light)](https://skillicons.dev)
 
 ## 📫 SNS
-<a href="https://www.instagram.com/chiyo_0502/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/chiyo_0502/)
